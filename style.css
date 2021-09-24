@@ -264,7 +264,7 @@ body{
 #gallery{
     padding: 40px;
     min-height: 80vh;
-    background: white;
+   background: url(images/2.jpg) center/cover fixed no-repeat;
     color: black;
 }
 .gallery-item{
